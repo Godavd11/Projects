@@ -1,5 +1,3 @@
-# Projects
-
 <h1 align="center">Hi 👋, I'm David C. Villalobos</h1>
 <h3 align="center">A passionate full stack frontend developer from Colombia</h3>
 
